@@ -1,0 +1,9 @@
+C:\Users\mt15160\Documents\Visual Studio 2013\Projects\ProcessaPreIndexacao\ProcessaPreIndexacao\bin\Debug\ProcessaPreIndexacao.exe.config
+C:\Users\mt15160\Documents\Visual Studio 2013\Projects\ProcessaPreIndexacao\ProcessaPreIndexacao\bin\Debug\ProcessaPreIndexacao.exe
+C:\Users\mt15160\Documents\Visual Studio 2013\Projects\ProcessaPreIndexacao\ProcessaPreIndexacao\bin\Debug\ProcessaPreIndexacao.pdb
+C:\Users\mt15160\Documents\Visual Studio 2013\Projects\ProcessaPreIndexacao\ProcessaPreIndexacao\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\mt15160\Documents\Visual Studio 2013\Projects\ProcessaPreIndexacao\ProcessaPreIndexacao\obj\Debug\ProcessaPreIndexacao.frmProcesaDiario.resources
+C:\Users\mt15160\Documents\Visual Studio 2013\Projects\ProcessaPreIndexacao\ProcessaPreIndexacao\obj\Debug\ProcessaPreIndexacao.Properties.Resources.resources
+C:\Users\mt15160\Documents\Visual Studio 2013\Projects\ProcessaPreIndexacao\ProcessaPreIndexacao\obj\Debug\ProcessaDiario.csproj.GenerateResource.Cache
+C:\Users\mt15160\Documents\Visual Studio 2013\Projects\ProcessaPreIndexacao\ProcessaPreIndexacao\obj\Debug\ProcessaPreIndexacao.exe
+C:\Users\mt15160\Documents\Visual Studio 2013\Projects\ProcessaPreIndexacao\ProcessaPreIndexacao\obj\Debug\ProcessaPreIndexacao.pdb

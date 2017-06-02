@@ -1,0 +1,3 @@
+Inicio Processamento : 02/06/2017 18:41:27 Cliente: 200
+Status Processamento : Processado com Sucesso!
+Termino do processamento : 02/06/2017 18:41:43
